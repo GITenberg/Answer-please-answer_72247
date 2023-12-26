@@ -1,0 +1,47 @@
+_repo: Answer-please-answer_72247
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Bova, Ben
+    aliases:
+    - Bova, Benjamin William
+    - Bovah, Ben
+    birthdate: 1932
+    deathdate: 2020
+    gutenberg_agent_id: '33114'
+    url: http://www.gutenberg.org/2009/agents/33114
+    wikipedia: https://en.wikipedia.org/wiki/Ben_Bova
+description: ''
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72247'
+language: en
+pgterms:marc905: 20231118072556bova
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Interstellar communication -- Fiction'
+- !lcsh 'Astronomers -- Fiction'
+- !lcsh 'South Pole -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Answer, please answer
+url: http://www.gutenberg.org/ebooks/72247
