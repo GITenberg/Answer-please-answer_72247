@@ -10,6 +10,9 @@ contributor:
     birthdate: 1938
     gutenberg_agent_id: '25425'
     url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: archival
+  image_path: 72247-h/images/cover.jpg
 creator:
   author:
     agent_name: Bova, Ben
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33114
     wikipedia: https://en.wikipedia.org/wiki/Ben_Bova
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72247#Answer-please-answer
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72247'
